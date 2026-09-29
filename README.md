@@ -10,7 +10,7 @@ subscriptions, shipments, products, suppliers, and payments.
 - **SQL** - SQL script to create and fill the database
 - **DIAGRAMS** - Chen ER diagram and UML diagram
 - **WORKBENCH** - MySQL Workbench model file
-- **REPORT** - Final project report
+- **REPORT** - Final report
 
 ## How to Run
 
